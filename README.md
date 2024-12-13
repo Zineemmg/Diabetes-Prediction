@@ -13,7 +13,7 @@ The current approach to identifying at-risk patients lacks precision, leading to
 Objective
 By harnessing the power of advanced machine learning techniques, this project aims to develop a robust predictive model that accurately identifies high-risk patients. This model will enable proactive healthcare interventions, improving patient outcomes and reducing the economic burden of diabetes. Additionally, the project will enhance the clinic's reputation for innovative, data-driven care, positioning it as a leader in the healthcare industry.
 
-Data Colletion
+Data Collection
 The dataset used for this project is "Diabetics Prediction Dataset" made available by 10Alytics
 
 Project Workflow
