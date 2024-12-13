@@ -1,4 +1,5 @@
 # Diabetes-Prediction Using Supervised Models
+https://github.com/Zineemmg/Diabetes-Prediction/blob/main/Diabetes_img.JPG
 Diabetes Prediction Using Supervised Models
 Business Understanding
 Stark Health Clinic is a leading healthcare provider that leverages technology and predictive modeling to enhance its operations. By integrating machine learning into its systems, the clinic identifies diseases early, improving patient outcomes and resource allocation.
